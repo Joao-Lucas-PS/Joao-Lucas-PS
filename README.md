@@ -54,6 +54,7 @@ Uso este espaço como meu "diário de bordo", onde guardo meus projetos e tudo o
         />
     </a>
 </p>
+
 ---
 
 ### 💻 Linguagens e Tecnologias 
@@ -109,7 +110,6 @@ Uso este espaço como meu "diário de bordo", onde guardo meus projetos e tudo o
 
 <br/>
 <br/>
----
 
 ### 📈 Estatísticas
 
