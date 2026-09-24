@@ -53,7 +53,7 @@ Uso este espaço como meu **diário de bordo**, onde guardo meus projetos, exper
     <img height="160" src="https://github-stats-extended.vercel.app/api?username=Joao-Lucas-PS&show_icons=true&include_all_commits=true&rank_icon=github&show=contributions&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7&ring_color=a855f7&custom_title=Estat%C3%ADsticas" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/Joao-Lucas-PS">
-    <img height="142" src="https://github-stats-extended.vercel.app/api/top-langs?username=Joao-Lucas-PS&langs_count=6&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7" alt="Linguagens mais usadas" />
+    <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=Joao-Lucas-PS&langs_count=6&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7" alt="Linguagens mais usadas" />
   </a>
 </p>
 
