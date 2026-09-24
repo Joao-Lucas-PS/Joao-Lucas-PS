@@ -50,14 +50,11 @@ Uso este espaço como meu **diário de bordo**, onde guardo meus projetos, exper
 
 <p align="center">
   <a href="https://github.com/Joao-Lucas-PS">
-    <img src="https://github-stats-extended.vercel.app/api?username=Joao-Lucas-PS&show_icons=true&include_all_commits=true&rank_icon=github&show=contributions&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7&ring_color=a855f7&custom_title=Estat%C3%ADsticas"
-    height="160" 
-    alt="Estatísticas do GitHub" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Joao-Lucas-PS&show_icons=true&include_all_commits=true&rank_icon=github&show=contributions&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7&ring_color=a855f7&custom_title=Estat%C3%ADsticas" height="160" alt="Estatísticas do GitHub" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Joao-Lucas-PS">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Joao-Lucas-PS&langs_count=6&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7"
-    height="160" 
-    alt="Linguagens mais usadas" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Joao-Lucas-PS&langs_count=6&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7" height="160" alt="Linguagens mais usadas" />
   </a>
 </p>
 
