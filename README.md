@@ -1,139 +1,61 @@
-# João Lucas
+# 🚀 Olá, eu sou o João Lucas!
 
 **`Estudante de Engenharia de Software`**
 
-<h2 align="left">E aí pessoal, seja bem-vindo ao meu GitHub! 👋</h2>
-
-Fala, como vocês estão? Sou de **Goiás** e atualmente mergulhado no curso de **Engenharia de Software**. Sempre tive curiosidade em entender como a tecnologia funciona e hoje tenho a programação como um hobby e meu principal foco de estudos.
-Uso este espaço como meu "diário de bordo", onde guardo meus projetos e tudo o que vou aprendendo no caminho. Sinta-se à vontade para explorar e trocar uma ideia!
-
 <p align="left">
-    <a href="https://www.linkedin.com/in/joão-lucas-paiva-da-silva-1537282b5" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://www.instagram.com/joao_lucas.ps/" target="_blank">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    <a href="mailto:joaolucastestepessoal@gmail.com" target="_blank">
-        <img 
-            alt="Gmail" 
-            title="Envie um e-mail" 
-            src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=mail&logoColor=white"
-        />
-    </a>
-    <a href="https://www.facebook.com/joaolucas.paiva.71/?locale=pt_BR" target="_blank">
-        <img 
-            alt="Facebook" 
-            title="Facebook" 
-            src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-        />
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://github.com/Joao-Lucas-PS?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Joao-Lucas-PS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/Joao-Lucas-PS?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Joao-Lucas-PS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-paiva-da-silva-1537282b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/joao_lucas.ps/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:joaolucastestepessoal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
-### 💻 Linguagens e Tecnologias 
+### 👨‍💻 Sobre Mim
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="VS Code" 
-    title="VS Code"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
+Fala, pessoal! Tudo bem? 👋  
+Sou de **Goiás** e atualmente estou mergulhado no curso de **Engenharia de Software**. Sempre tive curiosidade em entender como a tecnologia funciona por baixo dos panos, e hoje a programação é tanto o meu foco principal de estudos quanto meu hobby.
 
-<br/>
-<br/>
+Uso este espaço como meu **diário de bordo**, onde guardo meus projetos, experimentos e tudo o que vou aprendendo pelo caminho. Sinta-se à vontade para explorar e trocar uma ideia!
 
-### 📈 Estatísticas
+---
 
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens de Programação**
 <p align="left">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-PS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucas-PS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" title="C" />
 </p>
 
-<br clear="left"/>
+**Bancos de Dados, Ambientes & Ferramentas**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code" />
+</p>
 
-### 🕹️ Atividade Gamer no Teclado 
+---
+
+### 📊 Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-PS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucas-PS&layout=compact&theme=tokyonight&locale=pt-br&langs_count=8" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 🕹️ Atividade Gamer no Teclado
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joao-Lucas-PS/Joao-Lucas-PS/output/pacman-contribution-graph-dark.svg">
