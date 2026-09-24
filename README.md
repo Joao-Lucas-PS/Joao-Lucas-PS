@@ -48,10 +48,51 @@ Uso este espaço como meu **diário de bordo**, onde guardo meus projetos, exper
 
 ### 📊 Estatísticas no GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-PS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucas-PS&layout=compact&theme=tokyonight&locale=pt-br&langs_count=8" alt="Linguagens mais usadas" />
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="180" viewBox="0 0 500 180">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="position: relative; width: 500px; height: 180px; overflow: hidden;">
+      
+      <!-- Imagem dinâmica do github-stats-extended -->
+      <img 
+src="https://github-stats-extended.vercel.app/api?username=Joao-Lucas-PS&show_icons=true&include_all_commits=true&rank_icon=github&show=contributions&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7&ring_color=a855f7&custom_title=Estat%C3%ADsticas"
+style="position: absolute;
+top: 10px;
+left: 10px;
+width: 480px;
+height: 160px;" 
+        alt="Estatísticas do GitHub" />
+
+      <!-- Retângulo pequeno orbitando em volta da tabela -->
+      <div style="
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+        animation: orbit 3s linear infinite;
+      ">
+        <div style="
+          position: absolute;
+          top: -5px;
+          left: 50%;
+          width: 14px;
+          height: 7px;
+          background: #a855f7;
+          transform: translateX(-50%);
+        "></div>
+      </div>
+
+    </div>
+  </foreignObject>
+
+  <style>
+    @keyframes orbit {
+      0%   { transform: rotate(0deg)   translateY(-90px) rotate(0deg);   }
+      100% { transform: rotate(360deg) translateY(-90px) rotate(-360deg); }
+    }
+  </style>
+</svg>
 
 ---
 
