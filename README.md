@@ -31,68 +31,15 @@ Uso este espaço como meu **diário de bordo**, onde guardo meus projetos, exper
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-  width="25"
-  height="25"
-  style = "padding-right: 5px;"
-  alt="Java"
-  title="Java"
-  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  width="25"
-  height="25"
-  style = "padding-right: 5px;"
-  alt="Python"
-  title="Python"
-  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-  width="25"
-  height="25"
-  style = "padding-right: 5px;"
-  alt="C"
-  title="C"
-  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-  width="25"
-  height="25"
-  style = "padding-right: 5px;"
-  alt="PostgreSQL"
-  title="PostgreSQL"
-  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="25"
-  height="25"
-  style = "padding-right: 5px;"
-  alt="Docker"
-  title="Docker"
-  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="25"
-  height="25"
-  style = "padding-right: 5px;"
-  alt="Postman"
-  title="Postman"
-  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25"
-  height="25"
-  style = "padding-right: 5px;"
-  alt="Git"
-  title="Git"
-  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-  width="25"
-  height="25"
-  style = "padding-right: 5px;"
-  alt="GitHub"
-  title="GitHub"
-  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-  width="25"
-  height="25"
-  style = "padding-right: 5px;"
-  lt="VS Code"
-  title="VS Code"
-  />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" height="32" hspace="5" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" height="32" hspace="5" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="32" height="32" hspace="5" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" height="32" hspace="5" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" height="32" hspace="5" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="32" height="32" hspace="5" alt="Postman" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" height="32" hspace="5" alt="Git" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="32" height="32" hspace="5" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32" height="32" hspace="5" alt="VS Code" title="VS Code" />
 </p>
 
 ---
