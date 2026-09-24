@@ -31,15 +31,15 @@ Uso este espaço como meu **diário de bordo**, onde guardo meus projetos, exper
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" hspace="8" alt="Java" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" hspace="8" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" height="36" hspace="8" alt="C" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" hspace="8" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" hspace="8" alt="Docker" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" hspace="8" alt="Postman" title="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" hspace="8" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/github/white" width="36" height="36" hspace="8" alt="GitHub" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" hspace="8" alt="VS Code" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg?v=1" width="36" height="36" hspace="8" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg?v=1" width="36" height="36" hspace="8" alt="Python" title="Python" />
+  <img src="https://cdn.simpleicons.org/c/00599C?v=1" width="36" height="36" hspace="8" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg?v=1" width="36" height="36" hspace="8" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg?v=1" width="36" height="36" hspace="8" alt="Docker" title="Docker" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37?v=1" width="36" height="36" hspace="8" alt="Postman" title="Postman" />
+  <img src="https://cdn.simpleicons.org/git/F05032?v=1" width="36" height="36" hspace="8" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/github/white?v=1" width="36" height="36" hspace="8" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg?v=1" width="36" height="36" hspace="8" alt="VS Code" title="VS Code" />
 </p>
 
 ---
