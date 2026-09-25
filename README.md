@@ -48,11 +48,21 @@ Uso este espaço como meu **diário de bordo**, onde guardo meus projetos, exper
 
 <p align="center">
   <a href="https://github.com/Joao-Lucas-PS">
-    <img src="https://github-stats-extended.vercel.app/api?username=Joao-Lucas-PS&show_icons=true&include_all_commits=true&rank_icon=github&show=contributions&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7&ring_color=a855f7&custom_title=Estat%C3%ADsticas" height="165" alt="Estatísticas do GitHub" />
+    <picture>
+      <!-- Modo Escuro (Tema Personalizado Grafite/Roxo) -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Joao-Lucas-PS&show_icons=true&include_all_commits=true&rank_icon=github&show=contributions&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7&ring_color=a855f7&custom_title=Estat%C3%ADsticas" />
+      <!-- Modo Claro -->
+      <img height="165" src="https://github-stats-extended.vercel.app/api?username=Joao-Lucas-PS&show_icons=true&include_all_commits=true&rank_icon=github&show=contributions&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7&ring_color=a855f7&custom_title=Estat%C3%ADsticas" alt="Estatísticas do GitHub" />
+    </picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Joao-Lucas-PS">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Joao-Lucas-PS&langs_count=6&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7" height="165" alt="Linguagens mais usadas" />
+    <picture>
+      <!-- Modo Escuro (Tema Personalizado Grafite/Roxo) -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Joao-Lucas-PS&langs_count=6&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7&custom_title=Linguagens%20Mais%20Usadas" />
+      <!-- Modo Claro -->
+      <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Joao-Lucas-PS&langs_count=6&bg_color=16161e&border_color=a855f7&title_color=a855f7&text_color=c0caf5&icon_color=a855f7&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens mais usadas" />
+    </picture>
   </a>
 </p>
 
@@ -63,5 +73,3 @@ Uso este espaço como meu **diário de bordo**, onde guardo meus projetos, exper
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joao-Lucas-PS/Joao-Lucas-PS/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Joao-Lucas-PS/Joao-Lucas-PS/output/pacman-contribution-graph.svg">
 </picture>
-
--->
